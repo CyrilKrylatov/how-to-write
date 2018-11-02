@@ -53,3 +53,35 @@
 > all uses need to be approved by **YouTube**.
 
 [Source](https://www.youtube.com/intl/en/yt/about/)
+
+
+## iOS
+
+~~ios~~ ~~IOS~~ ~~Ios~~
+
+> **iOS** 12 is designed to make your iPhone and iPad experience even faster, more responsive, and more delightful
+[Source](https://www.apple.com/ios/ios-12/)
+
+
+## macOS
+
+~~Mac OS~~ ~~MacOS~~ ~~MACos~~
+
+> Now **macOS** Mojave brings new features inspired by its most powerful users but designed for everyone
+[Source](https://www.apple.com/macos/mojave/)
+
+
+## tvOS
+
+~~TvOS~~ ~~TV OS~~ ~~Tv Os~~
+
+> We’ve reimagined the TV experience with **tvOS**
+[Source](https://developer.apple.com/tvos/)
+
+
+## watchOS
+
+~~WatchOS~~ ~~watch OS~~
+
+> With **watchOS 5**, you can do even more with your Apple Watch from your morning workout to lights out
+[Source](https://www.apple.com/watchos/watchos-5/)
