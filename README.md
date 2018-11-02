@@ -53,13 +53,21 @@
 > We’ve reimagined the TV experience with **tvOS**
 [Source](https://developer.apple.com/tvos/)
 
-## Vue.js
+## Vue / Vue.js
 
-~~Vue~~ ~~VueJS~~ ~~Vue.JS~~ ~~vue.js~~
+~~vue~~ ~~VueJS~~ ~~Vue.JS~~ ~~vue.js~~
+
+> Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces.
+
+[Source](https://vuejs.org/v2/guide/#What-is-Vue-js)
 
 > The easiest way to try out **Vue.js** is using the JSFiddle Hello World example.
 
 [Source](https://vuejs.org/v2/guide/#Getting-Started)
+
+> Both are fine. Use Vue.js when in a non-frontend-specific context. If in a frontend specific context, just using Vue is fine.
+
+[Source](https://github.com/vuejs/vue/issues/9015#issuecomment-435397150)
 
 ## watchOS
 
