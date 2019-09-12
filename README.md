@@ -13,6 +13,7 @@
 ~~ios~~ ~~IOS~~ ~~Ios~~ ~~iOs~~
 
 > **iOS** 12 is designed to make your iPhone and iPad experience even faster, more responsive, and more delightful
+
 [Source](https://www.apple.com/ios/ios-12/)
 
 ## JavaScript
@@ -28,6 +29,7 @@
 ~~Mac OS~~ ~~Mac os~~ ~~MacOS~~ ~~MACos~~
 
 > Now **macOS** Mojave brings new features inspired by its most powerful users but designed for everyone
+
 [Source](https://www.apple.com/macos/mojave/)
 
 ## Node
@@ -51,6 +53,7 @@
 ~~TvOS~~ ~~TV OS~~ ~~Tv Os~~
 
 > We’ve reimagined the TV experience with **tvOS**
+
 [Source](https://developer.apple.com/tvos/)
 
 ## Vue / Vue.js
@@ -74,6 +77,7 @@
 ~~WatchOS~~ ~~watch OS~~
 
 > With **watchOS 5**, you can do even more with your Apple Watch from your morning workout to lights out
+
 [Source](https://www.apple.com/watchos/watchos-5/)
 
 ## WordPress
