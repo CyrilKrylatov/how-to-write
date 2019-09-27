@@ -36,6 +36,18 @@
 
 [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+## ✅ jQuery
+
+❌ Jquery
+
+❌ jquery
+
+❌ JQUERY
+
+> **jQuery** is a fast, small, and feature-rich JavaScript library. 
+
+[Source](https://jquery.com/)
+
 ## ✅ macOS
 
 ❌ Mac OS
